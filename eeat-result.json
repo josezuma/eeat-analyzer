@@ -1,0 +1,11 @@
+{
+  "score": 10,
+  "findings": [
+    "No named author (-25)",
+    "No publish date detected",
+    "1 external references (+10)",
+    "No schema.org markup",
+    "No social/credential profiles"
+  ],
+  "url": "https://example.com"
+}
